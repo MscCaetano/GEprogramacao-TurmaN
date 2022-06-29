@@ -1,4 +1,5 @@
 # GEprogramacao-TurmaN
+- Algumas coisas aleatórias sobre configuração irão aparecer.
 - # 1
 - ## 2
 - ### 3
