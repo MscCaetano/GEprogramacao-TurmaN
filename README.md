@@ -1,2 +1,2 @@
 # GEprogramacao-TurmaN
-Esta no readme
+A descricao esta no README
