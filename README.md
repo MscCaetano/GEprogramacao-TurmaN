@@ -15,6 +15,6 @@
 - **Quem são os colaboradores?** Daniel Caetano da Silva
 - **Licença de uso?** MIT License
 - [clique aqui para carregar as imagens](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-- ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![](https://tenor.com/view/bruce-almighty-jim-carrey-type-typing-fast-gif-4271405)
 - Coloque uma imagem que abre um link:
 - [![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/alexandresanlim/Badges4-README.md-Profile)
