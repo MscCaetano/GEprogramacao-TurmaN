@@ -1,0 +1,21 @@
+body {
+    background-color: #F5F5DC;
+}
+h1 , h3 {
+	color: #FFA07A;
+}
+h1 {
+	text-align:center; 
+}
+h3 {
+	text-align: justify;
+}
+b { 
+	color: royalblue; 
+	font-size: 20px;
+ }
+i {
+ 	color: yellowgreen; 
+	font-size: 20px;
+
+ }
