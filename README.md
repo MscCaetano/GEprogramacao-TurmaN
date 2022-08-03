@@ -18,4 +18,5 @@
 - ![](https://tenor.com/view/bruce-almighty-jim-carrey-type-typing-fast-gif-4271405)
 - Coloque uma imagem que abre um link:
 - [![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-- Paleta de cores ![image](https://user-images.githubusercontent.com/104945053/182726711-d1559578-5dc2-4829-8990-0f39543c4aaf.png)
+- Paleta de cores ![image](https://user-images.githubusercontent.com/104945053/182727076-23c79345-aa0f-40c8-adeb-e5e10610511f.png)
+
