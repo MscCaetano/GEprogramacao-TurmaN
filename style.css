@@ -5,3 +5,7 @@ header, footer {
     background-color: #19B5AB;
 }
 
+p {
+    text-align: justify;
+}
+
