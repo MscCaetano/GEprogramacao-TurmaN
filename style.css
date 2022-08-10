@@ -1,8 +1,7 @@
 body {
     background-color: #44C9EB;
 }
-header, footer {
-    background-color: #19B5AB;
+header, footer {background-color: #19B5AB;
 }
 #imagemprincipal {
     width: 100%;
@@ -14,7 +13,7 @@ header, footer {
 }
 
 h1,h2 {
-    text-align: ;
+    text-align: center;
 }
 p {
     text-align: justify;
