@@ -14,6 +14,9 @@ header, footer {background-color: #19B5AB;
 h1,h2 {
     text-align: center;
 }
+#Figura {
+    font-size: 10px;
+}
 p {
     text-align: justify;
 }
