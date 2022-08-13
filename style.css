@@ -12,6 +12,8 @@ header, footer {background-color: #19B5AB;
 }
 h1, strong {
     font-size: 50px;
+    color:blue;
+    backgroung:yellow;
 
 }
 h1,h2 {
