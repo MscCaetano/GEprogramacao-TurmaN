@@ -10,13 +10,13 @@ header, footer {background-color: #19B5AB;
     margin: 20px;
     padding: 5px;
 }
-h1, strong {
+h1 strong {
     font-size: 50px;
     color:blue;
     backgroung:yellow;
 
 }
-h1,h2 {
+h1 h2 {
     text-align: center;
 }
 Figura {
