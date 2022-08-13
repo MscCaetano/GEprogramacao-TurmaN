@@ -26,5 +26,6 @@ Figura {
 }
 p {
     text-align: justify;
+    text-align-last: initial;
 }
 
