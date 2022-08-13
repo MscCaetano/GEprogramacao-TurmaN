@@ -10,7 +10,10 @@ header, footer {background-color: #19B5AB;
     margin: 20px;
     padding: 5px;
 }
+h1, strong {
+    font-size: 45px;
 
+}
 h1,h2 {
     text-align: center;
 }
