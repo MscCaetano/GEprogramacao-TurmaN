@@ -1,9 +1,11 @@
+header, footer {
+    background-color: #19B5AB;
+}
 body {
     background-color: #44C9EB;
 }
-header, footer {background-color: #19B5AB;
-}
-#imagemprincipal {
+
+#banner{
     width: 93%;
     height: 300 px;
     border: 2px solid black;
