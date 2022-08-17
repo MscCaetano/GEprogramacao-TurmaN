@@ -5,13 +5,14 @@ body {
     background-color: #44C9EB;
 }
 
-#banner{
+#banner {
     width: 93%;
     height: 300 px;
     border: 2px solid black;
     margin: 20px;
     padding: 5px;
 }
+
 h1, strong {
     font-size: 50px;
     color:blue;
@@ -21,7 +22,7 @@ h1, strong {
 h1, h2 {
     text-align: center;
 }
-Figura {
+.class figura {
     font-size: 5px;
 }
 p {
