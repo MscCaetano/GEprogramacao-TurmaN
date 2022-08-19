@@ -17,6 +17,7 @@
 - [clique aqui para carregar as imagens](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - ![](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 - [![](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://www.alura.com.br/artigos/como-colocar-projeto-no-ar-com-github-pages?gclid=CjwKCAjw6fyXBhBgEiwAhhiZspgJNvKuZ31t_GbFX4kkQvIagLxv_1ZKeIGl2rmRWwM0oRk5g8mXEBoCIdcQAvD_BwE)
+- [Formatação Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 - Coloque uma imagem que abre um link:
 - [![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - Paleta de cores ![image](https://user-images.githubusercontent.com/104945053/182727076-23c79345-aa0f-40c8-adeb-e5e10610511f.png)
