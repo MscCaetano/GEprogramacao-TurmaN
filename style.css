@@ -46,7 +46,10 @@ p {
 .itens {
     font-style: italic;
 }
-
+.itens2 {
+    font-style:italic;
+    font-size: medium;
+}
 
 
 /* não funcionou 
