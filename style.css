@@ -57,3 +57,9 @@ ul {
     width: 20%;
     margin-right: 15%;
    }
+ol {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+   }
