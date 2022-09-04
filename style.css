@@ -43,10 +43,17 @@ p {
 .imagemAM15 {
     width: 40%
 }
+.itens {
+    font-style: italic;
+}
+
+
+
+/* não funcionou 
 <ul> {
     display: inline-block;
     vertical-align: top;
     width: 20%;
-    margin-right: 20px;
-    
-}
+    margin-right: 15%;
+   }
+*/ 
