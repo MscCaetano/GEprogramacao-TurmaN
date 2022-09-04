@@ -43,4 +43,7 @@ p {
 .imagemAM15 {
     width: 40%
 }
- 
+<ul> {
+    display: inline-block;
+    
+}
