@@ -1,5 +1,5 @@
 header, footer {
-    background-color: #b51919;
+    background-color: #4f4723;
 }
 body {
     background-color: #44C9EB;
@@ -15,15 +15,15 @@ body {
 
 h1, strong {
     font-size: 50px;
-    color:rgb(72, 255, 0);
-    backgroung:yellow;
+    color:rgb(232, 146, 9);
+    backgroung:rgb(232, 146, 9);
 
 }
 h1, h2 {
     text-align: center;
 }
 .paragrafos  {
-    background-color: darksalmon;
+    background-color: rgb(232, 146, 9);;
     font-size: 20px;
     border: 2px solid black;
     padding: 10px;
