@@ -11,6 +11,18 @@ body {
     border: 2px solid black;
     margin: 20px;
     padding: 5px;
+
+header {
+    Background-color: black;
+}
+
+nav li {
+    display:inline;
+}
+
+nav a {
+    color:rgb(232, 146, 9);
+    text-transform: uppercase;
 }
 
 h1, strong {
