@@ -5,8 +5,7 @@ h1 {
     /*Alinha texto ao centro*/
     text-align: center;
 }
-<<<<<<< HEAD
 /*a tag <body> contempla toda a página, podemos utilizar ela como sinalizador*/
-body{
+body {
     background-color: rgb(3, 71, 73);
 }
