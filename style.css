@@ -1,0 +1,5 @@
+/* Usamos seletor, usamos uma referência da tag, todos que estiverem com aquela tag receberá a formatação*/
+h1 {
+    /*pode adicionar cor: escrevendo p nome em inglês, hexadecimal ou RGB*/
+    color: rgb(69, 47, 163);
+}
