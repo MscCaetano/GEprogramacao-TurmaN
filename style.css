@@ -2,4 +2,10 @@
 h1 {
     /*pode adicionar cor: escrevendo p nome em inglês, hexadecimal ou RGB*/
     color: rgb(248, 7, 67);
+    /*Alinha texto ao centro*/
+    text-align: center;
+}
+/*a tag <body> contempla toda a página, podemos utilizar ela como sinalizador*/
+body{
+    background-color: cadetblue;
 }
