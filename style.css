@@ -9,3 +9,8 @@ h1 {
 body {
     background-color: rgb(3, 71, 73);
 }
+/*poderíamos usar usar o sinalisador img, porém vai valer para todas as imagens, para evitar isso usaremos um identificador no index.html. Utiliza-se #id para chamar a imagem*/
+#imagempositivo {
+    width: 250px;
+    height: 250px;
+}
