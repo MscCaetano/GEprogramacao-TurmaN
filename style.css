@@ -1,16 +1,77 @@
-/* Usamos seletor, usamos uma referência da tag, todos que estiverem com aquela tag receberá a formatação*/
-h1 {
-    /*pode adicionar cor: escrevendo p nome em inglês, hexadecimal ou RGB*/
-    color: rgb(14, 15, 14);
-    /*Alinha texto ao centro*/
+header, footer {
+    background-color: #4f4723;
+}
+body {
+    background-color: #44C9EB;
+}
+
+#banner {
+    width: 93%;
+    height: 300 px;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 5px;
+
+header {
+    Background-color: black;
+}
+
+nav li {
+    display:inline;
+}
+
+nav a {
+    color:rgb(232, 146, 9);
+    text-transform: uppercase;
+}
+
+h1, strong {
+    font-size: 50px;
+    color:rgb(232, 146, 9);
+    backgroung:rgb(232, 146, 9);
+
+}
+h1, h2 {
     text-align: center;
 }
-/*a tag <body> contempla toda a página, podemos utilizar ela como sinalizador*/
-body {
-    background-color: rgb(251, 52, 3);
+.paragrafos  {
+    background-color: rgb(232, 146, 9);;
+    font-size: 20px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 15px;
 }
-/*poderíamos usar usar o sinalisador img, porém vai valer para todas as imagens, para evitar isso usaremos um identificador no index.html. Utiliza-se #id para chamar a imagem*/
-#imagempositivo {
-    width: 500px;
-    height: 500px;
+/* para chamar imagem usa #*/
+#am15 {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 5px;
+
 }
+p {
+    text-align: justify;
+    text-align-last: initial;
+}
+.imagemAM15 {
+    width: 40%
+}
+.itens {
+    font-style: italic;
+}
+.itens2 {
+    font-style:italic;
+    font-size: larger;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+   }
+ol {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+   }
