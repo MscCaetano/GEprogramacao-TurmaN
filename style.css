@@ -1,13 +1,13 @@
 /* Usamos seletor, usamos uma referência da tag, todos que estiverem com aquela tag receberá a formatação*/
 h1 {
     /*pode adicionar cor: escrevendo p nome em inglês, hexadecimal ou RGB*/
-    color: rgb(248, 7, 67);
+    color: rgb(14, 15, 14);
     /*Alinha texto ao centro*/
     text-align: center;
 }
 /*a tag <body> contempla toda a página, podemos utilizar ela como sinalizador*/
 body {
-    background-color: rgb(3, 71, 73);
+    background-color: rgb(251, 52, 3);
 }
 /*poderíamos usar usar o sinalisador img, porém vai valer para todas as imagens, para evitar isso usaremos um identificador no index.html. Utiliza-se #id para chamar a imagem*/
 #imagempositivo {
