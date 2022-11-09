@@ -1,4 +1,7 @@
 /* Usamos seletor, usamos uma referência da tag, todos que estiverem com aquela tag receberá a formatação*/
+header{
+    background-color: #ffffff;
+}
 h1 {
     /*pode adicionar cor: escrevendo o nome em inglês, hexadecimal ou RGB*/
     color: #50471e;
