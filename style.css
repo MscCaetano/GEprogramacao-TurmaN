@@ -2,6 +2,9 @@
 header{
     background-color: #ffffff;
 }
+#logo {
+    display: inline;
+}
 h1 {
     /*pode adicionar cor: escrevendo o nome em inglês, hexadecimal ou RGB*/
     color: #50471e;
