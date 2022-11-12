@@ -2,8 +2,9 @@ body {
     background-color: #cccccc;
 }
 #banner {
-    width: 100%
-    border: 1px solid #000000
+    width: 100%;
+    border: 1px solid #000000;
+    padding: 10px;
     
 }
 p {
@@ -11,7 +12,7 @@ p {
     
 }
 h1 {
-    color: #888888
+    color: #888888;
 }
 #pergunta {
     font-style: oblique;
