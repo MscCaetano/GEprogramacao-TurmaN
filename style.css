@@ -3,6 +3,7 @@ body {
 }
 #banner {
     width: 100%
+    border: 10px solid #000000
 }
 p {
     text-align:center;
