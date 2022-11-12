@@ -5,11 +5,13 @@ main{
     background-color: black;
 }
 #imagempositivo{
+    display: inline;
     height: 50px;
 }
 footer{
     background-color: darksalmon;
 }
 #logo{
+    display: inline-block;
     padding: center;
 }
