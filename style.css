@@ -7,3 +7,7 @@ p {
 h1 {
     color: #888888
 }
+#pergunta {
+    font-style: oblique;
+    font-size: large;
+}
