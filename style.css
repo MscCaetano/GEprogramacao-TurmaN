@@ -4,6 +4,9 @@ header {
 main{
     background-color: black;
 }
+#imagempositivo{
+    height: 50px;
+}
 footer{
     background-color: darksalmon;
 }
