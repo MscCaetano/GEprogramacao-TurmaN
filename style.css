@@ -16,6 +16,7 @@ h1 {
     width: 500px;
     color: #888888;
     border: 2px solid #000000;
+    padding: 50px;
 }
 #pergunta {
     font-style: oblique;
