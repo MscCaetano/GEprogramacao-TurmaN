@@ -1,4 +1,9 @@
-p{
-    text-align:center;
+body {
     background-color: #cccccc;
+}
+p {
+    text-align:center;
+}
+strong {
+    font-color: #aaaaaa;
 }
