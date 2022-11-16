@@ -12,6 +12,7 @@ p {
 }
 h1 {
     text-align: center;
+    text-decoration: wavy;
     width: 500px;
     color: #888888;
     border: 2px solid #000000;
