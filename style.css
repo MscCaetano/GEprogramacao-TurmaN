@@ -13,9 +13,18 @@ footer{
 #banner {
     width: 100%
 }
+nav li {
+    display:inline;
+    margin:10px;
+}
 p {
     text-align:justify;
     font-size: 20px;
+}
+/*Faz as configurações para todos os títulos, entre vírgulas*/
+h1,h2,h3{
+    margin: 10px;
+    height: 10px;
 }
 h1 {
     display: inline-block;
