@@ -1,11 +1,14 @@
 header {
     background-color: #cccccc;
+    padding: 50px;
 }
 main {
     background-color: #ccccff;
+    padding: 50px;
 }
 footer{
-    background-color: #ccffcc;]
+    background-color: #ccffcc;
+    padding: 50px;
 
 }
 #banner {
