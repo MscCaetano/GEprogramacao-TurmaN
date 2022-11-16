@@ -1,5 +1,12 @@
-body {
+header {
     background-color: #cccccc;
+}
+main {
+    background-color: #ccccff;
+}
+footer{
+    background-color: #ccffcc;]
+
 }
 #banner {
     width: 100%;
@@ -12,7 +19,7 @@ p {
 }
 h1 {
     text-align: center;
-    text-decoration: wavy;
+    
     width: 500px;
     color: #888888;
     border: 2px solid #000000;
