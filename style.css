@@ -25,6 +25,8 @@ p {
 h1,h2,h3{
     margin: 10px;
     height: 10px;
+    font-size: 1.5em;
+    font-height: bold;
 }
 h1 {
     display: inline-block;
