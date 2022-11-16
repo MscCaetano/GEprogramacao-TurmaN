@@ -3,11 +3,9 @@ header {
 }
 main {
     background-color: #ccccff;
-    padding: 20%;
 }
 footer{
-    background-color: #cc99cc;
-    padding: 20%;
+    background-color: #cc99cc
 }
 #banner {
     width: 100%
