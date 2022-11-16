@@ -3,14 +3,15 @@ header {
 }
 main {
     background-color: #ccccff;
-    padding: 50px;
+    padding: 20%;
 }
 footer{
     background-color: #cc99cc;
-    padding: 50px;
+    padding: 20%;
 }
 #banner {
     width: 100%;
+    padding: 100px;
 }
     
 p {
