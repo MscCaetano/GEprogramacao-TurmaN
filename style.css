@@ -20,6 +20,7 @@ nav li {
 p {
     text-align:justify;
     font-size: 20px;
+    padding: 30px;
 }
 /*Faz as configurações para todos os títulos, entre vírgulas*/
 h1,h2,h3{
