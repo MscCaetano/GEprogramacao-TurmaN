@@ -38,10 +38,6 @@ h1 {
     border: 2px solid #000000;
     margin: 10px;
 }
-.itens {
-    font-style: italic;
-    font-size: 20px;
-}
 #especial{
     font-weight: bolder;
     color: darkblue;
