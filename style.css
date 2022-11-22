@@ -4,12 +4,12 @@ body {
 }
 
 header {
-    background-color: #cccccc;
+    background-color: #cc9999;
 
 }
 
 main {
-    background-color: #ccccff;
+    background-color: #9494c9;
 
 }
 
@@ -58,7 +58,7 @@ h1 {
     margin: 10px;
 }
 .itens {
-    margin:10px;
+    margin:20%;
     height:10px;
     font-size: 15px;
 
