@@ -56,11 +56,12 @@ h1 {
     color: #888888;
     border: 2px solid #000000;
     margin: 10px;
-ul li {
+}
+.itens {
     margin:10px;
     height:10px;
     font-size: 15px;
-}
+
 }
 
 #especial{
