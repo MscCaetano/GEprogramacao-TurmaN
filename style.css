@@ -39,7 +39,7 @@ p {
 }
 
 /*Faz as configurações para todos os títulos, entre vírgulas*/
-h1,h2,h3{
+h1,h2,h3 {
     margin: 10px;
     height: 10px;
     font-size: 1.5em;
